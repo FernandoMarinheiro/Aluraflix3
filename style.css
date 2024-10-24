@@ -1,6 +1,21 @@
 body{
-    background:blue;
-    color: yellow;
+    background-color: aqua;
+    color: red;
+}
+header {
+    padding-top: 3%;
+    padding-bottom:3%;
 }
 
-section
+section{
+    background:rgb(rgb(94, 68, 68);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display:flex ;
+    justify-content: center;
+}
+
+.chamada_texto{
+    margin: right 1%; 
+    
+}
